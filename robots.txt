@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://	luc-and-the-machine.github.io/blog/sitemap.xml

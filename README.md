@@ -1,1 +1,0 @@
-# Luc & the Machine Blog
