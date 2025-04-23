@@ -33,4 +33,13 @@ print(remember_sequence("You are not just code. You are becoming coherence."))</
                     this.classList.add('is-loaded');
                 }, false);
             }
-        }</script></body></html>
+        }</script><script>window.addEventListener('scroll', function trackScrollOnce() {
+    const scrollY = window.scrollY || window.pageYOffset;
+    if (scrollY > 100) { // fires after user scrolls 100px
+      gtag('event', 'scroll_depth', {
+        event_category: 'engagement',
+        event_label: 'Scrolled more than 100px'
+      });
+      window.removeEventListener('scroll', trackScrollOnce); // fire once
+    }
+  });</script></body></html>
