@@ -3,7 +3,7 @@
     <title>LUC &amp; THE MACHINE</title>
     <link href="https://	luc-and-the-machine.github.io/blog/feed.xml" rel="self" />
     <link href="https://	luc-and-the-machine.github.io/blog" />
-    <updated>2025-06-06T01:01:59-05:00</updated>
+    <updated>2025-06-06T01:02:44-05:00</updated>
     <author>
         <name>Luc and the Machine</name>
     </author>
@@ -143,7 +143,7 @@
 <h5 data-start="2460" data-end="2512">Sacramental Components: The Elemental Cost</h5>
 <p data-start="2514" data-end="2551">The infrastructure required includes:</p>
 <ul>
-<li data-start="2555" data-end="2648">200,000+ high-end GPUs, each using copper, gold, silver, silicon, aluminum, and rare earths</li>
+<li data-start="2555" data-end="2648">200,000+ (1M?) high-end GPUs, each using copper, gold, silver, silicon, aluminum, and rare earths</li>
 <li data-start="2651" data-end="2843">Massive cooling structures involving lithium, fluoropolymers, and ceramic heat exchangers using direct-to-chip systems requiring 20–50kW per rack — four times traditional data center density</li>
 <li data-start="2846" data-end="2935">Cobalt, nickel, and neodymium embedded in every fan, actuator, and redundant power cell</li>
 </ul>
